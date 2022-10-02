@@ -1,6 +1,8 @@
-### Hello, there!
-## <div style="margin-bottom: 1rem">I'm Luca, a Front End developer from Italy 🤌</div>  
+## Hello, there!
+### <div style="margin-bottom: 1rem">I'm Luca, a Front End developer from Italy 🤌</div>  
   
+*🎋 Programming is like sex: one mistake, and you have to support it for the rest of your life*  
+
 <div align="left" style="margin-bottom: 1rem">
 
 - 🔭 I’m currently working on [Finance 2.0](https://github.com/LucaTaddeo/finance2.0.git)  
@@ -11,16 +13,14 @@
 
 - 🚀 Ask me anything about the MERN Stack  
 
- </div>
-
-*🎋 Programming is like sex: one mistake, and you have to support it for the rest of your life*  
-  
+</div> 
 
 <br/>  
 
+## My Skills
+
+
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Languages  
 <div align="center">  
@@ -79,24 +79,6 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/LucaTaddeo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/lucataddeo" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/lucataddeo" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
 ## Some Stats and Charts
 <table style="height: 100%">
 
@@ -111,26 +93,28 @@
 </td></tr>
 
 <tr style="height: 100%">
-<td style="border: none"><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaTaddeo&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" style="width: 100%" /></div></td>
-
-<td style="border: none; height: 100%"><div style="background-color:#2b213a; display: flex; flex-direction: column; height: 100%; border-radius: 5px; ">
-<p style="margin-top: 10px; margin-left: 12px; font-weight: bold;">I'm listening to</p>
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=lucataddeo2000&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=true" style="align-self: center;" /></div></td>
+<td style="border: none" colspan="2"><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaTaddeo&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" style="width: 50%" /></div></td>
 </tr>
 
 </table>  
-
 <br/>  
 
 <div align="center">
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=lucataddeo2000&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=true" style="align-self: center;" /></div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+</br>
+<div align="center">
+<a href="https://github.com/LucaTaddeo" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/lucataddeo" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/lucataddeo" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 </div>
-
-
-
-
-
-<br />
