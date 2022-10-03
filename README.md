@@ -1,5 +1,5 @@
 ## Hello, there!
-### <div style="margin-bottom: 1rem">I'm Luca, a Front End developer from Italy 🤌</div>  
+### <div style="margin-bottom: 1rem">I'm Luca, a Front End developer from Italy! 🍕</div>  
   
 *🎋 Programming is like sex: one mistake, and you have to support it for the rest of your life*  
 
