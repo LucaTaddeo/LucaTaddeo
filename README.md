@@ -5,7 +5,7 @@
 
 <div align="left" style="margin-bottom: 1rem; margin-top: 1rem">
 
-🔭 I’m currently working on [Finance 2.0](https://github.com/LucaTaddeo/finance2.0.git)  
+🔭 I’m currently working on [Soource](https://soource.com)  
   
 
 🌱 I’m currently learning Next.js and Docker  
