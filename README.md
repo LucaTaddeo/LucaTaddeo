@@ -1,7 +1,7 @@
 ## Hello, there!
 ### <div style="margin-bottom: 1rem">I'm Luca, a Front End developer from Italy! 🍕</div>  
   
-*🎋 Programming is like sex: one mistake, and you have to support it for the rest of your life*  
+*🎋 Code is like humor. When you have to explain it, it’s bad.*  
 
 <div align="left" style="margin-bottom: 1rem; margin-top: 1rem">
 
@@ -10,8 +10,6 @@
 
 🌱 I’m currently learning Next.js and Docker  
   
-
-🚀 Ask me anything about the MERN Stack  
 
 </div> 
 
