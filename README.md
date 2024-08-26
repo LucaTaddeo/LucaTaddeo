@@ -8,7 +8,7 @@
 🔭 I’m currently working on [Soource](https://soource.com)  
   
 
-🌱 I’m currently learning Next.js and Docker  
+🌱 I’m currently learning Next.js, AWS Amplify and Strapi
   
 
 </div> 
